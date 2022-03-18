@@ -7,5 +7,5 @@ func main() {
 }
 
 func SayHi() {
-	fmt.Println("Hi, v1!")
+	fmt.Println("Hi, v2!")
 }
