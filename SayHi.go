@@ -1,10 +1,6 @@
-package main
+package SayHi
 
 import "fmt"
-
-func main() {
-
-}
 
 func SayHi() {
 	fmt.Println("Hi, v2!")
